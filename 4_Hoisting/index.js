@@ -1,5 +1,5 @@
 //Prints the function definition as whole function definition is copied in the memory allocation phase
-console.log(getName);
+// console.log(getName);
 
 var x = 7;
 
