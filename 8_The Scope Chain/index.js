@@ -13,6 +13,12 @@ function a() {
 
     function c() {
         console.log(b);
+        var x = 20;
+        d();
+        function d() {
+
+            console.log(x);
+        }
     }
 }
 
