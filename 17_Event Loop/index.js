@@ -1,0 +1,4 @@
+/* 
+All JS Code is executed inside the call stack
+
+*/
